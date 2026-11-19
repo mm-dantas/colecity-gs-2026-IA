@@ -2,7 +2,12 @@
 
 **Pergunta:** essa reclamação de transporte vai ser resolvida?
 
-**Integrantes:** _(preencher: nome e RM)_
+**Integrantes:** 
+Guilherme Oliveira Da Silva -  558797
+Rafael Panhoca - 555014
+Matheus Dantas - 558804
+Victor rodriguez – 559094
+Silas Alves  - 555020
 
 ---
 
