@@ -19,10 +19,14 @@
 
 Segundo o portal, os relatórios foram extraídos em **19/10/2026**, então o status de cada reclamação é o daquela data.
 
-## Onde está o arquivo
-O arquivo **`arquivo-final-2-trim-26.xlsx`** (cerca de 40 MB) já está no repositório, na mesma pasta do notebook (`ml/`).
-Ele foi baixado do link acima ("Dados do SP156 – 2º TRI 2026", XLSX) e apenas renomeado, sem nenhuma alteração no conteúdo.
-Para rodar o notebook, não é preciso baixar nada.
+## Como baixar
+O arquivo não está no repositório porque passa do limite de upload do GitHub (cerca de 40 MB).
+
+1. Baixe o arquivo pelo link direto:
+   https://dados.prefeitura.sp.gov.br/dataset/0aecfa2b-aa3a-40d4-8183-0d4351b7fd0a/resource/3ae65d07-d3e2-417a-becc-659a51cdce57/download/arquivo-final-2-trim-26.xlsx
+2. Coloque o arquivo `arquivo-final-2-trim-26.xlsx` **na mesma pasta do notebook** (`ml/`) e rode o notebook.
+
+O notebook já está salvo **executado**, então todos os resultados e gráficos podem ser vistos no GitHub sem baixar a base.
 
 ## Colunas usadas
 | Coluna original | Uso no modelo |
